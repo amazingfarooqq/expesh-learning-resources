@@ -1,2 +1,2 @@
-# expesh-public
-Expesh Free Programming resources provider
+# Expesh Learning Resources
+Expesh Premier Study Resources provider
