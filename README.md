@@ -1,2 +1,2 @@
-# Expesh Learning Resources.
+# Expesh Learning Resources..
 Expesh Premier Study Resources provider
